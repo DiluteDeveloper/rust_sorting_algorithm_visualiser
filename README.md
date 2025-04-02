@@ -3,6 +3,13 @@ A project to learn Rust by writing a Sorting Algorithm Visualiser using OpenGL g
 
 changelog:
 
+v0.1.1
+
+Removed template glfw code from main
+switched to piston for graphics
+moved software project into new folder
+
+
 v1.05
 
 Added GLFW cargo module dependency
